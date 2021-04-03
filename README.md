@@ -11,7 +11,8 @@ INGABIRE Clementine
  * Flask-bootstrap
  
 ## Support and contact details
-Email: ingabire067@gmail.com
+Email: ingabire067@gmail.com<hr>
+Phone: 0789942598
 
 ## link to live site
 https://app-pitch1.herokuapp.com/
