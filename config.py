@@ -39,7 +39,7 @@ class DevConfig(Config):
         configuration settings
     """
     DATABASE_PASSWORD = os.environ.get("DATABASE_PASSWORD")
-    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://tina:Ingabire067@localhost/pitchess'
+    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://tina:tina@localhost/pitchess'
     DEBUG = True
 
 class TestConfig(Config):
